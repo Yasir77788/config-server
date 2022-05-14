@@ -1,3 +1,4 @@
+# configuration for Eureka client shared by application microservices (spring cloud discovery)
 eureka:
   client:
     register-with-eureka: true
