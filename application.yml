@@ -1,4 +1,5 @@
-# configuration for Eureka client shared by application microservices (spring cloud discovery)
+# configuration for Eureka client shared by application microservices (spring cloud discovery).
+# This allows local microservices to register with service-registry as local clients
 eureka:
   client:
     register-with-eureka: true
